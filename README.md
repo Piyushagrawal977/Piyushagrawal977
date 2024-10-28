@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushagrawal977&label=Profile%20views&color=0e75b6&style=flat" alt="piyushagrawal977" /> </p>
 -->
-
+<p align="center"><img src="./My-work.gif" alt="Alt Text" > </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
